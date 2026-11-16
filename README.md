@@ -1,55 +1,54 @@
-DEVGANGA AMRIT — TRIAL WEBSITE
+DEVGANGA AMRIT — UNFINALIZED
 
-Exploring a Premium Digital Identity Inspired by Devprayag
+Experimental Website Project
 
 DevGanga Amrit is a spiritual heritage brand inspired by the sacred confluence of the Alaknanda and Bhagirathi rivers at Devprayag, Uttarakhand, India.
 
-This repository contains the trial version of the DevGanga Amrit website. It serves as an experimental environment for exploring website design, user experience, visual branding, and digital presentation before selecting the final website version.
+This repository contains an unfinalized experimental version of the DevGanga Amrit website. It is maintained for development, design exploration, interface testing, and experimentation.
 
-🌿 About the Project
+Note: This is not the official production website.
 
-The goal of this project is to build a premium digital presence for DevGanga Amrit that reflects its spiritual heritage, cultural significance, and brand identity.
+🧪 Project Status
 
-This trial website allows design ideas and website features to be explored and evaluated during development.
+Status: Experimental / Unfinalized
+Purpose: Development and testing
+Production Release: Not intended for production use
 
-✨ Project Highlights
+🎯 Project Objectives
 
-- Premium brand presentation.
-- Devprayag-inspired visual identity.
-- Product showcase for 250 ml Ganga Jal.
-- Spiritual and ritual-use information.
-- Brand storytelling and heritage content.
-- Responsive website layout.
-- Interactive interface elements.
-- Experimental design and user experience improvements.
-
-Features may change as the trial website evolves.
+- Explore alternative website designs and layouts.
+- Test user interface and user experience concepts.
+- Experiment with visual branding and animations.
+- Evaluate responsive layouts across different screen sizes.
+- Test features before considering future improvements.
 
 🛠️ Technology Stack
 
+The project uses the following technologies:
+
 - React — User interface development.
 - TypeScript — Typed application code.
-- Vite — Development and build tooling.
+- Vite — Development server and build tooling.
 - Tailwind CSS — Styling and responsive layouts.
 - Lucide React — Interface icons.
 - Motion — Animations and interactive effects.
-- GitHub — Source code hosting and version control.
 
-🚀 Getting Started
+🚀 Running the Project Locally
 
 Prerequisites
 
-Install Node.js and npm before running the project locally.
+- Node.js
+- npm
 
 Installation
 
 Clone the repository:
 
-git clone https://github.com/rolysajwan/devganga-amrit-trial.git
+git clone https://github.com/rolysajwan/devganga-amrit-unfinalized.git
 
-Navigate to the project folder:
+Navigate to the project directory:
 
-cd devganga-amrit-trial
+cd devganga-amrit-unfinalized
 
 Install the dependencies:
 
@@ -59,35 +58,15 @@ Start the development server:
 
 npm run dev
 
-Open the local address displayed in your terminal to view the website.
-
-Production Build
-
-Build the project:
+Production Build Test
 
 npm run build
 
-Preview the production build:
+📌 Development Notes
 
-npm run preview
+This repository is intended for experimentation and development purposes. Its design, content, features, and structure may change without notice.
 
-🧪 Project Status
-
-Current Status: Trial Phase — Under Development
-
-This repository is intended for experimentation, design evaluation, and feature testing. It is not necessarily the final production version of the DevGanga Amrit website.
-
-🎯 Objectives
-
-- Explore different website design approaches.
-- Evaluate the mobile and desktop experience.
-- Refine the brand's visual identity.
-- Test interface elements and interactions.
-- Identify improvements before final website development.
-
-🔮 Future Direction
-
-After the trial phase, the website may be refined further or compared with alternative versions to determine the most suitable design for the DevGanga Amrit brand.
+The code in this repository should not be treated as the final approved version of the DevGanga Amrit website.
 
 👨‍💻 Developer
 
@@ -95,9 +74,15 @@ Rolysajwan
 
 GitHub: https://github.com/rolysajwan
 
+🔒 Project Visibility
+
+Repository visibility and access are controlled through GitHub repository settings.
+
+For private development and testing, the repository should be configured as private.
+
 📄 License
 
-No open-source license has been specified. All rights are reserved by the project owner unless a license is added to this repository.
+No open-source license has been specified. All rights are reserved by the project owner unless a license is added.
 
 ---
 
