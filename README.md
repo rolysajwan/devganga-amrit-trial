@@ -1,97 +1,57 @@
-DEVGANGA AMRIT
+DEVGANGA AMRIT — TRIAL WEBSITE
 
-Sacred Ganga Jal from Devprayag Sangam
+Exploring a Premium Digital Identity Inspired by Devprayag
 
-A premium spiritual heritage brand inspired by the sacred confluence of the Alaknanda and Bhagirathi rivers at Devprayag, Uttarakhand, India.
+DevGanga Amrit is a spiritual heritage brand inspired by the sacred confluence of the Alaknanda and Bhagirathi rivers at Devprayag, Uttarakhand, India.
+
+This repository contains the trial version of the DevGanga Amrit website. It serves as an experimental environment for exploring website design, user experience, visual branding, and digital presentation before selecting the final website version.
 
 🌿 About the Project
 
-DevGanga Amrit is a brand-focused web project designed to present the spiritual heritage, identity, and vision of DevGanga Amrit through a premium digital experience.
+The goal of this project is to build a premium digital presence for DevGanga Amrit that reflects its spiritual heritage, cultural significance, and brand identity.
 
-The website combines elegant visual design, brand storytelling, product presentation, and information about the traditional religious uses of Ganga Jal.
+This trial website allows design ideas and website features to be explored and evaluated during development.
 
-The product is intended exclusively for religious and ritual use and is not for drinking.
+✨ Project Highlights
 
-✨ Features
+- Premium brand presentation.
+- Devprayag-inspired visual identity.
+- Product showcase for 250 ml Ganga Jal.
+- Spiritual and ritual-use information.
+- Brand storytelling and heritage content.
+- Responsive website layout.
+- Interactive interface elements.
+- Experimental design and user experience improvements.
 
-- Premium, responsive website design.
-- Brand introduction and heritage storytelling.
-- Devprayag Sangam information section.
-- 250 ml product showcase.
-- Traditional ritual uses and ceremonial information.
-- Product sourcing and presentation process.
-- Trust and transparency section.
-- Frequently Asked Questions (FAQ).
-- Coming Soon notification modal.
-- Contact and brand information.
-- Dedicated mobile notification button.
+Features may change as the trial website evolves.
 
 🛠️ Technology Stack
 
-- React 19 — UI development.
-- TypeScript — typed application code.
-- Vite — development server and production builds.
-- Tailwind CSS 4 — styling.
-- Lucide React — interface icons.
-- Motion — animations.
-- Git & GitHub — source control and project hosting.
-
-📂 Project Structure
-
-devganga-amrit-website/
-├── public/
-│   └── assets/
-├── src/
-│   ├── assets/
-│   │   └── images/
-│   ├── components/
-│   │   ├── BrandStory.tsx
-│   │   ├── CollectionProcess.tsx
-│   │   ├── ComingSoonSection.tsx
-│   │   ├── ContactSection.tsx
-│   │   ├── DevprayagSection.tsx
-│   │   ├── FAQSection.tsx
-│   │   ├── Footer.tsx
-│   │   ├── Hero.tsx
-│   │   ├── Navbar.tsx
-│   │   ├── NotifyModal.tsx
-│   │   ├── ProductShowcase.tsx
-│   │   ├── RitualUses.tsx
-│   │   └── TrustSection.tsx
-│   ├── data/
-│   │   └── content.ts
-│   ├── App.tsx
-│   ├── index.css
-│   ├── main.tsx
-│   └── types.ts
-├── index.html
-├── package.json
-├── tsconfig.json
-└── vite.config.ts
-
-The structure above highlights the main files; the complete repository may contain additional files.
+- React — User interface development.
+- TypeScript — Typed application code.
+- Vite — Development and build tooling.
+- Tailwind CSS — Styling and responsive layouts.
+- Lucide React — Interface icons.
+- Motion — Animations and interactive effects.
+- GitHub — Source code hosting and version control.
 
 🚀 Getting Started
 
 Prerequisites
 
-Install the following:
-
-- Node.js
-- npm
-- A code editor such as Visual Studio Code
+Install Node.js and npm before running the project locally.
 
 Installation
 
 Clone the repository:
 
-git clone https://github.com/rolysajwan/devganga-amrit-website.git
+git clone https://github.com/rolysajwan/devganga-amrit-trial.git
 
-Navigate to the project directory:
+Navigate to the project folder:
 
-cd devganga-amrit-website
+cd devganga-amrit-trial
 
-Install dependencies:
+Install the dependencies:
 
 npm install
 
@@ -99,31 +59,35 @@ Start the development server:
 
 npm run dev
 
-Open the local URL displayed in the terminal to view the website.
+Open the local address displayed in your terminal to view the website.
 
 Production Build
 
-To create a production build, run:
+Build the project:
 
 npm run build
 
-To preview the production build locally, run:
+Preview the production build:
 
 npm run preview
 
-🎯 Project Vision
+🧪 Project Status
 
-The vision of DevGanga Amrit is to represent the spiritual heritage of Devprayag through a thoughtful digital identity, combining traditional values with modern web technology.
+Current Status: Trial Phase — Under Development
 
-🔮 Future Improvements
+This repository is intended for experimentation, design evaluation, and feature testing. It is not necessarily the final production version of the DevGanga Amrit website.
 
-Potential future improvements include:
+🎯 Objectives
 
-- Further UI/UX refinements.
-- Enhanced accessibility and responsiveness.
-- Improved notification functionality.
-- Additional product information.
-- E-commerce integration when the brand is ready to launch.
+- Explore different website design approaches.
+- Evaluate the mobile and desktop experience.
+- Refine the brand's visual identity.
+- Test interface elements and interactions.
+- Identify improvements before final website development.
+
+🔮 Future Direction
+
+After the trial phase, the website may be refined further or compared with alternative versions to determine the most suitable design for the DevGanga Amrit brand.
 
 👨‍💻 Developer
 
@@ -131,10 +95,10 @@ Rolysajwan
 
 GitHub: https://github.com/rolysajwan
 
-📌 Project Status
-
-Coming Soon — Under Development
-
 📄 License
 
 No open-source license has been specified. All rights are reserved by the project owner unless a license is added to this repository.
+
+---
+
+DevGanga Amrit — Inspired by Devprayag. Rooted in spiritual heritage.
