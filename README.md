@@ -1,69 +1,140 @@
 DEVGANGA AMRIT
 
-A Spiritual Heritage Brand Inspired by Devprayag, Uttarakhand
+Sacred Ganga Jal from Devprayag Sangam
 
-DevGanga Amrit is a premium spiritual heritage brand inspired by the sacred confluence of the Bhagirathi and Alaknanda rivers at Devprayag, Uttarakhand, India.
+A premium spiritual heritage brand inspired by the sacred confluence of the Alaknanda and Bhagirathi rivers at Devprayag, Uttarakhand, India.
 
-This repository contains the Android application project for DevGanga Amrit, developed to establish a digital presence for the brand through a refined, accessible, and user-friendly mobile experience.
+🌿 About the Project
 
-✨ About the Project
+DevGanga Amrit is a brand-focused web project designed to present the spiritual heritage, identity, and vision of DevGanga Amrit through a premium digital experience.
 
-DevGanga Amrit brings together spiritual heritage, elegant design, and modern technology. The Android application is part of the brand's digital journey, with a focus on presenting its identity and vision through a clean and engaging interface.
+The website combines elegant visual design, brand storytelling, product presentation, and information about the traditional religious uses of Ganga Jal.
 
-🎯 Project Goals
+The product is intended exclusively for religious and ritual use and is not for drinking.
 
-- Build a dedicated Android application for the DevGanga Amrit brand.
-- Create a clean, modern, and user-friendly mobile experience.
-- Present the brand's spiritual heritage and identity.
-- Explore modern Android development technologies.
-- Develop and improve the application through continuous updates.
+✨ Features
 
-🛠️ Development
+- Premium, responsive website design.
+- Brand introduction and heritage storytelling.
+- Devprayag Sangam information section.
+- 250 ml product showcase.
+- Traditional ritual uses and ceremonial information.
+- Product sourcing and presentation process.
+- Trust and transparency section.
+- Frequently Asked Questions (FAQ).
+- Coming Soon notification modal.
+- Contact and brand information.
+- Dedicated mobile notification button.
 
-The application is developed using Android Studio.
+🛠️ Technology Stack
 
-Technologies and tools:
+- React 19 — UI development.
+- TypeScript — typed application code.
+- Vite — development server and production builds.
+- Tailwind CSS 4 — styling.
+- Lucide React — interface icons.
+- Motion — animations.
+- Git & GitHub — source control and project hosting.
 
-- Android Studio
-- Android SDK
-- Git and GitHub
+📂 Project Structure
 
-The specific programming languages, frameworks, and libraries depend on the project's implementation.
+devganga-amrit-website/
+├── public/
+│   └── assets/
+├── src/
+│   ├── assets/
+│   │   └── images/
+│   ├── components/
+│   │   ├── BrandStory.tsx
+│   │   ├── CollectionProcess.tsx
+│   │   ├── ComingSoonSection.tsx
+│   │   ├── ContactSection.tsx
+│   │   ├── DevprayagSection.tsx
+│   │   ├── FAQSection.tsx
+│   │   ├── Footer.tsx
+│   │   ├── Hero.tsx
+│   │   ├── Navbar.tsx
+│   │   ├── NotifyModal.tsx
+│   │   ├── ProductShowcase.tsx
+│   │   ├── RitualUses.tsx
+│   │   └── TrustSection.tsx
+│   ├── data/
+│   │   └── content.ts
+│   ├── App.tsx
+│   ├── index.css
+│   ├── main.tsx
+│   └── types.ts
+├── index.html
+├── package.json
+├── tsconfig.json
+└── vite.config.ts
+
+The structure above highlights the main files; the complete repository may contain additional files.
 
 🚀 Getting Started
 
-To explore or work with this project:
+Prerequisites
 
-1. Clone or download this repository.
-2. Open Android Studio.
-3. Select Open and choose the downloaded project folder.
-4. Allow Gradle to sync and download the required dependencies.
-5. Build and run the application on an emulator or a compatible Android device.
+Install the following:
 
-📂 Repository Contents
+- Node.js
+- npm
+- A code editor such as Visual Studio Code
 
-This repository contains the source files and project configuration required to develop the DevGanga Amrit Android application.
+Installation
 
-The exact folder structure depends on the current project configuration.
+Clone the repository:
 
-🔮 Future Development
+git clone https://github.com/rolysajwan/devganga-amrit-website.git
 
-Planned improvements may include:
+Navigate to the project directory:
 
-- UI/UX refinements.
-- Performance and compatibility improvements.
-- Additional brand information and digital features.
-- Better accessibility and mobile usability.
-- New features as the project evolves.
+cd devganga-amrit-website
 
-🌿 Brand Vision
+Install dependencies:
 
-DevGanga Amrit aims to represent the spiritual heritage of Devprayag through a premium and thoughtful digital identity.
+npm install
 
-Inspired by Devprayag. Rooted in spiritual heritage. Built for the digital age.
+Start the development server:
 
----
+npm run dev
+
+Open the local URL displayed in the terminal to view the website.
+
+Production Build
+
+To create a production build, run:
+
+npm run build
+
+To preview the production build locally, run:
+
+npm run preview
+
+🎯 Project Vision
+
+The vision of DevGanga Amrit is to represent the spiritual heritage of Devprayag through a thoughtful digital identity, combining traditional values with modern web technology.
+
+🔮 Future Improvements
+
+Potential future improvements include:
+
+- Further UI/UX refinements.
+- Enhanced accessibility and responsiveness.
+- Improved notification functionality.
+- Additional product information.
+- E-commerce integration when the brand is ready to launch.
+
+👨‍💻 Developer
+
+Rolysajwan
+
+GitHub: https://github.com/rolysajwan
+
+📌 Project Status
+
+Coming Soon — Under Development
 
 📄 License
 
-No open-source license has been specified yet. All rights are reserved by the project owner unless a license is added to this repository.
+No open-source license has been specified. All rights are reserved by the project owner unless a license is added to this repository.
